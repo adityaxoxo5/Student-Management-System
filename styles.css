@@ -1,0 +1,28 @@
+nav{
+    background-color:black;
+     padding: 10px;
+    }
+nav a{
+    color: white;
+    text-decoration: none;
+    width: 20px;
+    margin:50px;
+    }
+nav a:hover{
+     color:yellow;
+    }
+html, body {
+  background-color:bisque;
+  margin: 0;
+  height: 100%;
+  text-align: center;
+}
+form{
+    padding:50px;
+    margin:30px;
+    box-sizing:border-box;
+    display: block;
+    border:5px black solid ;
+    background-color:coral;
+    border-radius: 2px;;
+}
